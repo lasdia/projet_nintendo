@@ -1,1 +1,1 @@
-var consoem = "nintendo"
+var consoem = "super nintendo"
